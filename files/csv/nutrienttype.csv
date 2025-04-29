@@ -1,0 +1,8 @@
+Id,Name,MessureId,DisplayIndex,Mandatory
+20712138-252b-11f0-aba6-d85ed33237df,energi,205cb7a7-252b-11f0-aba6-d85ed33237df,1,1
+207126b9-252b-11f0-aba6-d85ed33237df,fett,205cb167-252b-11f0-aba6-d85ed33237df,2,1
+20712910-252b-11f0-aba6-d85ed33237df,- mettet fett,205cb167-252b-11f0-aba6-d85ed33237df,3,0
+20712aad-252b-11f0-aba6-d85ed33237df,karbohydrater,205cb167-252b-11f0-aba6-d85ed33237df,4,1
+20712bc0-252b-11f0-aba6-d85ed33237df,- sukkerarter,205cb167-252b-11f0-aba6-d85ed33237df,5,0
+20712ce3-252b-11f0-aba6-d85ed33237df,protein,205cb167-252b-11f0-aba6-d85ed33237df,6,1
+20712e10-252b-11f0-aba6-d85ed33237df,salt,205cb167-252b-11f0-aba6-d85ed33237df,7,0

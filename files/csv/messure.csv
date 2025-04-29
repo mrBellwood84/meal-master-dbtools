@@ -1,0 +1,12 @@
+Id,ShortName,FullName,RelativeSize,MessureTypeId
+205c9e0a-252b-11f0-aba6-d85ed33237df,dl,desiliter,1.0,204f8b8c-252b-11f0-aba6-d85ed33237df
+205ca5dd-252b-11f0-aba6-d85ed33237df,l,liter,10.0,204f8b8c-252b-11f0-aba6-d85ed33237df
+205caa9e-252b-11f0-aba6-d85ed33237df,ts,teskje,0.05,204f8b8c-252b-11f0-aba6-d85ed33237df
+205cacd8-252b-11f0-aba6-d85ed33237df,ss,spiseskje,0.15,204f8b8c-252b-11f0-aba6-d85ed33237df
+205caf4d-252b-11f0-aba6-d85ed33237df,kg,kilogram,10.0,204f67ad-252b-11f0-aba6-d85ed33237df
+205cb167-252b-11f0-aba6-d85ed33237df,g,gram,0.01,204f67ad-252b-11f0-aba6-d85ed33237df
+205cb2ba-252b-11f0-aba6-d85ed33237df,mg,milligram,0.0001,204f67ad-252b-11f0-aba6-d85ed33237df
+205cb3f7-252b-11f0-aba6-d85ed33237df,ug,mikrogram,1e-06,204f67ad-252b-11f0-aba6-d85ed33237df
+205cb530-252b-11f0-aba6-d85ed33237df,stk,stykk,1.0,204f8d71-252b-11f0-aba6-d85ed33237df
+205cb66f-252b-11f0-aba6-d85ed33237df,kJ,kilojoule,0.01,204f67ad-252b-11f0-aba6-d85ed33237df
+205cb7a7-252b-11f0-aba6-d85ed33237df,kcal,kilokalorier,1.0,204f8e17-252b-11f0-aba6-d85ed33237df
