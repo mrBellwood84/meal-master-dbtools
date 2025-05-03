@@ -1,59 +1,60 @@
-aa311033-26ad-11f0-b7b0-d85ed33237df,energi,Energi,1,1,aa0c119f-26ad-11f0-b7b0-d85ed33237df
-aa31147b-26ad-11f0-b7b0-d85ed33237df,kalorier,Kalori,2,1,aa0c128a-26ad-11f0-b7b0-d85ed33237df
-aa31164d-26ad-11f0-b7b0-d85ed33237df,fett,Fett,3,1,aa0c0ce6-26ad-11f0-b7b0-d85ed33237df
-aa3117fe-26ad-11f0-b7b0-d85ed33237df,- mettede fettsyrer,Mettet,4,0,aa0c0ce6-26ad-11f0-b7b0-d85ed33237df
-aa311a58-26ad-11f0-b7b0-d85ed33237df,-- c12:0 (laurinsyre),C12:0Laurinsyre,5,0,aa0c0ce6-26ad-11f0-b7b0-d85ed33237df
-aa311c1b-26ad-11f0-b7b0-d85ed33237df,-- c14:0 (myristinsyre),C14:0Myristinsyre,6,0,aa0c0ce6-26ad-11f0-b7b0-d85ed33237df
-aa311d5c-26ad-11f0-b7b0-d85ed33237df,-- c16:0 (palmitinsyre),C16:0Palmitinsyre,7,0,aa0c0ce6-26ad-11f0-b7b0-d85ed33237df
-aa311ea2-26ad-11f0-b7b0-d85ed33237df,-- c18:0 (stearinsyre),C18:0Stearinsyre,8,0,aa0c0ce6-26ad-11f0-b7b0-d85ed33237df
-aa311f98-26ad-11f0-b7b0-d85ed33237df,- transfettsyrer,Trans,9,0,aa0c0ce6-26ad-11f0-b7b0-d85ed33237df
-aa31206e-26ad-11f0-b7b0-d85ed33237df,- enumettede fettsyrer,Enumet,10,0,aa0c0ce6-26ad-11f0-b7b0-d85ed33237df
-aa31214e-26ad-11f0-b7b0-d85ed33237df,-- c16:1 sum (palmitoleinsyre),C16:1,11,0,aa0c0ce6-26ad-11f0-b7b0-d85ed33237df
-aa312249-26ad-11f0-b7b0-d85ed33237df,-- c18:1 sum (oljesyre),C18:1,12,0,aa0c0ce6-26ad-11f0-b7b0-d85ed33237df
-aa312330-26ad-11f0-b7b0-d85ed33237df,- flerumettede fettsyrer,Flerum,13,0,aa0c0ce6-26ad-11f0-b7b0-d85ed33237df
-aa312441-26ad-11f0-b7b0-d85ed33237df,-- c18:2n-6 (linolsyre),C18:2n-6Linolsyre,14,0,aa0c0ce6-26ad-11f0-b7b0-d85ed33237df
-aa31251b-26ad-11f0-b7b0-d85ed33237df,-- c18:3n-3 (alfalinolensyre),C18:3n-3AlfaLinolensyre,15,0,aa0c0ce6-26ad-11f0-b7b0-d85ed33237df
-aa3125f2-26ad-11f0-b7b0-d85ed33237df,-- c20:3n-3 (eikosatriensyre),C20:3n-3Eikosatriensyre,16,0,aa0c0ce6-26ad-11f0-b7b0-d85ed33237df
-aa3126ea-26ad-11f0-b7b0-d85ed33237df,"-- c20:3n-6 (dihomo-gamma-linolensyre, dgla)",C20:3n-6DihomoGammaLinolensyre,17,0,aa0c0ce6-26ad-11f0-b7b0-d85ed33237df
-aa3127cc-26ad-11f0-b7b0-d85ed33237df,-- c20:4n-3 (eikosatetraensyre),C20:4n-3Eikosatetraensyre,18,0,aa0c0ce6-26ad-11f0-b7b0-d85ed33237df
-aa3128b6-26ad-11f0-b7b0-d85ed33237df,-- c20:4n-6 (arakidonsyre),C20:4n-6Arakidonsyre,19,0,aa0c0ce6-26ad-11f0-b7b0-d85ed33237df
-aa31298f-26ad-11f0-b7b0-d85ed33237df,"-- c20:5n-3 (eikosapentaensyre, epa)",C20:5n-3Eikosapentaensyre,20,0,aa0c0ce6-26ad-11f0-b7b0-d85ed33237df
-aa312a62-26ad-11f0-b7b0-d85ed33237df,"-- c22:5n-3 (dokosapentaensyre, dpa)",C22:5n-3Dokosapentaensyre,21,0,aa0c0ce6-26ad-11f0-b7b0-d85ed33237df
-aa312b83-26ad-11f0-b7b0-d85ed33237df,"-- c22:6n-3 (dokosaheksaensyre, dha)",C22:6n-3Dokosaheksaensyre,22,0,aa0c0ce6-26ad-11f0-b7b0-d85ed33237df
-aa312ca8-26ad-11f0-b7b0-d85ed33237df,- omega-3,Omega-3,23,0,aa0c0ce6-26ad-11f0-b7b0-d85ed33237df
-aa312d80-26ad-11f0-b7b0-d85ed33237df,- omega-6,Omega-6,24,0,aa0c0ce6-26ad-11f0-b7b0-d85ed33237df
-aa312ebf-26ad-11f0-b7b0-d85ed33237df,- kolesterol,Kolest,25,0,aa0c0dcf-26ad-11f0-b7b0-d85ed33237df
-aa312fab-26ad-11f0-b7b0-d85ed33237df,karbohydrat,Karbo,26,1,aa0c0ce6-26ad-11f0-b7b0-d85ed33237df
-aa313080-26ad-11f0-b7b0-d85ed33237df,- kostfiber,Fiber,27,0,aa0c0ce6-26ad-11f0-b7b0-d85ed33237df
-aa31317a-26ad-11f0-b7b0-d85ed33237df,- stivelse,Stivel,28,0,aa0c0ce6-26ad-11f0-b7b0-d85ed33237df
-aa313257-26ad-11f0-b7b0-d85ed33237df,- sukkerarter,Mono+Di,29,0,aa0c0ce6-26ad-11f0-b7b0-d85ed33237df
-aa31333a-26ad-11f0-b7b0-d85ed33237df,"- sukker, tilsatt",Sukker,30,0,aa0c0ce6-26ad-11f0-b7b0-d85ed33237df
-aa313445-26ad-11f0-b7b0-d85ed33237df,"- sukker, fritt",SUGAN,31,0,aa0c0ce6-26ad-11f0-b7b0-d85ed33237df
-aa31352a-26ad-11f0-b7b0-d85ed33237df,protein,Protein,32,1,aa0c0ce6-26ad-11f0-b7b0-d85ed33237df
-aa313617-26ad-11f0-b7b0-d85ed33237df,alkohol,Alko,33,1,aa0c0ce6-26ad-11f0-b7b0-d85ed33237df
-aa3136eb-26ad-11f0-b7b0-d85ed33237df,vann,Vann,34,0,aa0c0ce6-26ad-11f0-b7b0-d85ed33237df
-aa3137c3-26ad-11f0-b7b0-d85ed33237df,vitamin a (rae),Vit A,35,0,aa0c0ec4-26ad-11f0-b7b0-d85ed33237df
-aa3138a6-26ad-11f0-b7b0-d85ed33237df,vitamin a (re),Vit A RE,36,0,aa0c0ec4-26ad-11f0-b7b0-d85ed33237df
-aa313982-26ad-11f0-b7b0-d85ed33237df,- betakaroten,B-karo,37,0,aa0c0ec4-26ad-11f0-b7b0-d85ed33237df
-aa313aac-26ad-11f0-b7b0-d85ed33237df,- retinol,Retinol,38,0,aa0c0ec4-26ad-11f0-b7b0-d85ed33237df
-aa313ba9-26ad-11f0-b7b0-d85ed33237df,vitamin d,Vit D,39,0,aa0c0ec4-26ad-11f0-b7b0-d85ed33237df
-aa313cbb-26ad-11f0-b7b0-d85ed33237df,vitamin e,Vit E,40,0,aa0c0dcf-26ad-11f0-b7b0-d85ed33237df
-aa313ddf-26ad-11f0-b7b0-d85ed33237df,vitamin b1 (tiamin),Vit B1,41,0,aa0c0dcf-26ad-11f0-b7b0-d85ed33237df
-aa313f40-26ad-11f0-b7b0-d85ed33237df,vitamin b2 (riboflavin),Vit B2,42,0,aa0c0dcf-26ad-11f0-b7b0-d85ed33237df
-aa314043-26ad-11f0-b7b0-d85ed33237df,vitamin b3 (niacin),Niacin,43,0,aa0c0dcf-26ad-11f0-b7b0-d85ed33237df
-aa31414f-26ad-11f0-b7b0-d85ed33237df,niacinekvivalenter,NIAEQ,44,0,aa0c0dcf-26ad-11f0-b7b0-d85ed33237df
-aa314247-26ad-11f0-b7b0-d85ed33237df,vitamin b6 (pyridoksin),Vit B6,45,0,aa0c0dcf-26ad-11f0-b7b0-d85ed33237df
-aa314347-26ad-11f0-b7b0-d85ed33237df,vitamin b9 (folat),Folat,46,0,aa0c0ec4-26ad-11f0-b7b0-d85ed33237df
-aa314437-26ad-11f0-b7b0-d85ed33237df,vitamin b12 (kobalamin),Vit B12,47,0,aa0c0ec4-26ad-11f0-b7b0-d85ed33237df
-aa314539-26ad-11f0-b7b0-d85ed33237df,vitamin c (askorbinsyre),Vit C,48,0,aa0c0dcf-26ad-11f0-b7b0-d85ed33237df
-aa314642-26ad-11f0-b7b0-d85ed33237df,kalsium (ca),Ca,49,0,aa0c0dcf-26ad-11f0-b7b0-d85ed33237df
-aa314755-26ad-11f0-b7b0-d85ed33237df,kalium (k),K,50,0,aa0c0dcf-26ad-11f0-b7b0-d85ed33237df
-aa31482e-26ad-11f0-b7b0-d85ed33237df,natrium (na),Na,51,0,aa0c0dcf-26ad-11f0-b7b0-d85ed33237df
-aa31490f-26ad-11f0-b7b0-d85ed33237df,salt (nacl),NaCl,52,0,aa0c0ce6-26ad-11f0-b7b0-d85ed33237df
-aa3149e6-26ad-11f0-b7b0-d85ed33237df,fosfor (p),P,53,0,aa0c0dcf-26ad-11f0-b7b0-d85ed33237df
-aa314b00-26ad-11f0-b7b0-d85ed33237df,magnesium (mg),Mg,54,0,aa0c0dcf-26ad-11f0-b7b0-d85ed33237df
-aa314bff-26ad-11f0-b7b0-d85ed33237df,jern (fe),Fe,55,0,aa0c0dcf-26ad-11f0-b7b0-d85ed33237df
-aa314cdb-26ad-11f0-b7b0-d85ed33237df,kobber (cu),Cu,56,0,aa0c0dcf-26ad-11f0-b7b0-d85ed33237df
-aa314db2-26ad-11f0-b7b0-d85ed33237df,sink (zn),Zn,57,0,aa0c0dcf-26ad-11f0-b7b0-d85ed33237df
-aa314e8c-26ad-11f0-b7b0-d85ed33237df,selen (se),Se,58,0,aa0c0ec4-26ad-11f0-b7b0-d85ed33237df
-aa314faa-26ad-11f0-b7b0-d85ed33237df,jod (i),I,59,0,aa0c0ec4-26ad-11f0-b7b0-d85ed33237df
+Id,Name,DisplayIndex,Mandatory,NutrientId,MessureId
+507374f8-2822-11f0-8a90-d85ed33237df,energi,1,1,Energi,505b4952-2822-11f0-8a90-d85ed33237df
+50737d6a-2822-11f0-8a90-d85ed33237df,kalorier,2,1,Kalori,505b4a00-2822-11f0-8a90-d85ed33237df
+50738086-2822-11f0-8a90-d85ed33237df,fett,3,1,Fett,505b45d1-2822-11f0-8a90-d85ed33237df
+507382cd-2822-11f0-8a90-d85ed33237df,- mettede fettsyrer,4,0,Mettet,505b45d1-2822-11f0-8a90-d85ed33237df
+50738505-2822-11f0-8a90-d85ed33237df,-- c12:0 (laurinsyre),5,0,C12:0Laurinsyre,505b45d1-2822-11f0-8a90-d85ed33237df
+5073880f-2822-11f0-8a90-d85ed33237df,-- c14:0 (myristinsyre),6,0,C14:0Myristinsyre,505b45d1-2822-11f0-8a90-d85ed33237df
+50738a46-2822-11f0-8a90-d85ed33237df,-- c16:0 (palmitinsyre),7,0,C16:0Palmitinsyre,505b45d1-2822-11f0-8a90-d85ed33237df
+50738c01-2822-11f0-8a90-d85ed33237df,-- c18:0 (stearinsyre),8,0,C18:0Stearinsyre,505b45d1-2822-11f0-8a90-d85ed33237df
+50738daf-2822-11f0-8a90-d85ed33237df,- transfettsyrer,9,0,Trans,505b45d1-2822-11f0-8a90-d85ed33237df
+50738f5c-2822-11f0-8a90-d85ed33237df,- enumettede fettsyrer,10,0,Enumet,505b45d1-2822-11f0-8a90-d85ed33237df
+5073911a-2822-11f0-8a90-d85ed33237df,-- c16:1 sum (palmitoleinsyre),11,0,C16:1,505b45d1-2822-11f0-8a90-d85ed33237df
+507392cc-2822-11f0-8a90-d85ed33237df,-- c18:1 sum (oljesyre),12,0,C18:1,505b45d1-2822-11f0-8a90-d85ed33237df
+50739477-2822-11f0-8a90-d85ed33237df,- flerumettede fettsyrer,13,0,Flerum,505b45d1-2822-11f0-8a90-d85ed33237df
+5073968c-2822-11f0-8a90-d85ed33237df,-- c18:2n-6 (linolsyre),14,0,C18:2n-6Linolsyre,505b45d1-2822-11f0-8a90-d85ed33237df
+50739850-2822-11f0-8a90-d85ed33237df,-- c18:3n-3 (alfalinolensyre),15,0,C18:3n-3AlfaLinolensyre,505b45d1-2822-11f0-8a90-d85ed33237df
+50739a0a-2822-11f0-8a90-d85ed33237df,-- c20:3n-3 (eikosatriensyre),16,0,C20:3n-3Eikosatriensyre,505b45d1-2822-11f0-8a90-d85ed33237df
+50739bbf-2822-11f0-8a90-d85ed33237df,"-- c20:3n-6 (dihomo-gamma-linolensyre, dgla)",17,0,C20:3n-6DihomoGammaLinolensyre,505b45d1-2822-11f0-8a90-d85ed33237df
+50739d82-2822-11f0-8a90-d85ed33237df,-- c20:4n-3 (eikosatetraensyre),18,0,C20:4n-3Eikosatetraensyre,505b45d1-2822-11f0-8a90-d85ed33237df
+50739f45-2822-11f0-8a90-d85ed33237df,-- c20:4n-6 (arakidonsyre),19,0,C20:4n-6Arakidonsyre,505b45d1-2822-11f0-8a90-d85ed33237df
+5073a101-2822-11f0-8a90-d85ed33237df,"-- c20:5n-3 (eikosapentaensyre, epa)",20,0,C20:5n-3Eikosapentaensyre,505b45d1-2822-11f0-8a90-d85ed33237df
+5073a2ab-2822-11f0-8a90-d85ed33237df,"-- c22:5n-3 (dokosapentaensyre, dpa)",21,0,C22:5n-3Dokosapentaensyre,505b45d1-2822-11f0-8a90-d85ed33237df
+5073a45c-2822-11f0-8a90-d85ed33237df,"-- c22:6n-3 (dokosaheksaensyre, dha)",22,0,C22:6n-3Dokosaheksaensyre,505b45d1-2822-11f0-8a90-d85ed33237df
+5073a67e-2822-11f0-8a90-d85ed33237df,- omega-3,23,0,Omega-3,505b45d1-2822-11f0-8a90-d85ed33237df
+5073a878-2822-11f0-8a90-d85ed33237df,- omega-6,24,0,Omega-6,505b45d1-2822-11f0-8a90-d85ed33237df
+5073aa7e-2822-11f0-8a90-d85ed33237df,- kolesterol,25,0,Kolest,505b4670-2822-11f0-8a90-d85ed33237df
+5073ac45-2822-11f0-8a90-d85ed33237df,karbohydrat,26,1,Karbo,505b45d1-2822-11f0-8a90-d85ed33237df
+5073ae37-2822-11f0-8a90-d85ed33237df,- kostfiber,27,0,Fiber,505b45d1-2822-11f0-8a90-d85ed33237df
+5073b036-2822-11f0-8a90-d85ed33237df,- stivelse,28,0,Stivel,505b45d1-2822-11f0-8a90-d85ed33237df
+5073b217-2822-11f0-8a90-d85ed33237df,- sukkerarter,29,0,Mono+Di,505b45d1-2822-11f0-8a90-d85ed33237df
+5073b405-2822-11f0-8a90-d85ed33237df,"- sukker, tilsatt",30,0,Sukker,505b45d1-2822-11f0-8a90-d85ed33237df
+5073b629-2822-11f0-8a90-d85ed33237df,"- sukker, fritt",31,0,SUGAN,505b45d1-2822-11f0-8a90-d85ed33237df
+5073b8c8-2822-11f0-8a90-d85ed33237df,protein,32,1,Protein,505b45d1-2822-11f0-8a90-d85ed33237df
+5073baed-2822-11f0-8a90-d85ed33237df,alkohol,33,1,Alko,505b45d1-2822-11f0-8a90-d85ed33237df
+5073bcf4-2822-11f0-8a90-d85ed33237df,vann,34,0,Vann,505b45d1-2822-11f0-8a90-d85ed33237df
+5073bf1a-2822-11f0-8a90-d85ed33237df,vitamin a (rae),35,0,Vit A,505b473a-2822-11f0-8a90-d85ed33237df
+5073c19b-2822-11f0-8a90-d85ed33237df,vitamin a (re),36,0,Vit A RE,505b473a-2822-11f0-8a90-d85ed33237df
+5073c39b-2822-11f0-8a90-d85ed33237df,- betakaroten,37,0,B-karo,505b473a-2822-11f0-8a90-d85ed33237df
+5073c599-2822-11f0-8a90-d85ed33237df,- retinol,38,0,Retinol,505b473a-2822-11f0-8a90-d85ed33237df
+5073c77a-2822-11f0-8a90-d85ed33237df,vitamin d,39,0,Vit D,505b473a-2822-11f0-8a90-d85ed33237df
+5073c975-2822-11f0-8a90-d85ed33237df,vitamin e,40,0,Vit E,505b4670-2822-11f0-8a90-d85ed33237df
+5073cbae-2822-11f0-8a90-d85ed33237df,vitamin b1 (tiamin),41,0,Vit B1,505b4670-2822-11f0-8a90-d85ed33237df
+5073cd96-2822-11f0-8a90-d85ed33237df,vitamin b2 (riboflavin),42,0,Vit B2,505b4670-2822-11f0-8a90-d85ed33237df
+5073d081-2822-11f0-8a90-d85ed33237df,vitamin b3 (niacin),43,0,Niacin,505b4670-2822-11f0-8a90-d85ed33237df
+5073d294-2822-11f0-8a90-d85ed33237df,niacinekvivalenter,44,0,NIAEQ,505b4670-2822-11f0-8a90-d85ed33237df
+5073d4aa-2822-11f0-8a90-d85ed33237df,vitamin b6 (pyridoksin),45,0,Vit B6,505b4670-2822-11f0-8a90-d85ed33237df
+5073d6fe-2822-11f0-8a90-d85ed33237df,vitamin b9 (folat),46,0,Folat,505b473a-2822-11f0-8a90-d85ed33237df
+5073d91b-2822-11f0-8a90-d85ed33237df,vitamin b12 (kobalamin),47,0,Vit B12,505b473a-2822-11f0-8a90-d85ed33237df
+5073db2b-2822-11f0-8a90-d85ed33237df,vitamin c (askorbinsyre),48,0,Vit C,505b4670-2822-11f0-8a90-d85ed33237df
+5073dd24-2822-11f0-8a90-d85ed33237df,kalsium (ca),49,0,Ca,505b4670-2822-11f0-8a90-d85ed33237df
+5073df15-2822-11f0-8a90-d85ed33237df,kalium (k),50,0,K,505b4670-2822-11f0-8a90-d85ed33237df
+5073e13a-2822-11f0-8a90-d85ed33237df,natrium (na),51,0,Na,505b4670-2822-11f0-8a90-d85ed33237df
+5073e32e-2822-11f0-8a90-d85ed33237df,salt (nacl),52,0,NaCl,505b45d1-2822-11f0-8a90-d85ed33237df
+5073e4fd-2822-11f0-8a90-d85ed33237df,fosfor (p),53,0,P,505b4670-2822-11f0-8a90-d85ed33237df
+5073e6c3-2822-11f0-8a90-d85ed33237df,magnesium (mg),54,0,Mg,505b4670-2822-11f0-8a90-d85ed33237df
+5073e882-2822-11f0-8a90-d85ed33237df,jern (fe),55,0,Fe,505b4670-2822-11f0-8a90-d85ed33237df
+5073ea4a-2822-11f0-8a90-d85ed33237df,kobber (cu),56,0,Cu,505b4670-2822-11f0-8a90-d85ed33237df
+5073ec15-2822-11f0-8a90-d85ed33237df,sink (zn),57,0,Zn,505b4670-2822-11f0-8a90-d85ed33237df
+5073ee3d-2822-11f0-8a90-d85ed33237df,selen (se),58,0,Se,505b473a-2822-11f0-8a90-d85ed33237df
+5073f05a-2822-11f0-8a90-d85ed33237df,jod (i),59,0,I,505b473a-2822-11f0-8a90-d85ed33237df

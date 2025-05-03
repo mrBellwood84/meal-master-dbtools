@@ -12,13 +12,7 @@ def create_connetion():
     )
     return conn
 
-def db_query(query:str):
-    with create_connetion() as conn:
-        curs = conn.cursor()
-        curs.execute(query)
-        result = curs.fetchall()
-        return result
-    
+
 def db_query_single(query: str):
     with create_connetion() as conn:
         curs = conn.cursor()
@@ -26,7 +20,24 @@ def db_query_single(query: str):
         result = curs.fetchone()
         return result
 
-def db_insert(table_name:str, col_names:list, values: list):
+def db_query_many(query:str):
+    with create_connetion() as conn:
+        curs = conn.cursor()
+        curs.execute(query)
+        result = curs.fetchall()
+        return result
+    
+    
+def db_insert_single(table_name:str, col_names:list, values:tuple):
+    val_str = ",".join(["%s" for _ in col_names])
+    command = f"insert into {table_name} ({", ".join(col_names)}) values ({val_str})"
+    with create_connetion() as conn:
+        curs = conn.cursor()
+        curs.execute(command, values)
+        conn.commit()
+
+
+def db_insert_many(table_name:str, col_names:list, values: list):
     with create_connetion() as conn:
         curs = conn.cursor()
         val_str = ",".join(["%s" for _ in col_names])

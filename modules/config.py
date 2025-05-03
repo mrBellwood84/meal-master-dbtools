@@ -1,22 +1,29 @@
 import os
 
-ROOT = os.getcwd()
-CSV_FOLDER = os.path.join(ROOT, "files", "csv")
+# root folder for files
+FILE_ROOT = os.path.join(os.getcwd(), "files")
 
-FOOD_FILE_JSON = os.path.join(ROOT, "files", "source", "foods.json")
-NUTRIENTS_FILE_JSON = os.path.join(ROOT, "files", "source", "nutrients.json")
+# Folder paths
+CSV_FOLDER = os.path.join(FILE_ROOT, "csv")
+SCRIPTS_FOLDER = os.path.join(FILE_ROOT, "sql_scripts" )
+
+# Script paths
+FOOD_FILE_JSON = os.path.join(FILE_ROOT, "source", "foods.json")
+NUTRIENTS_FILE_JSON = os.path.join(FILE_ROOT, "source", "nutrients.json")
+QUICKADD_FILE_JSON = os.path.join(FILE_ROOT, "misc", "quickadd.json")
 
 # Respect the loadorder, data is dependent...
 CSV_LOADORDER = [
-    "messuretype",
     "messure",
-    "sourcetype",
+
     "ingredient",
-    "ingredientnutrientsource",
     "ingredientcategory",
     "ingredient_ingredientcategory",
+    "nutrientsource",
     "nutrienttype",
     "nutrientingredient",
+
+    "recipetype",
     "recipecategory",
     "recipe",
     "recipesource",
