@@ -43,7 +43,8 @@ class IngredientDataset:
         return {
             "id": self.__gen_id(),
             "text": self.food_item["uri"],
-            "ingredientId": self.ingredient_entity["id"]
+            "ingredientId": self.ingredient_entity["id"],
+            "sourceTypeId": db_query_single("select id from sourcetype where type = 'href'")[0]
         }
     
     def _create_category_entities(self):

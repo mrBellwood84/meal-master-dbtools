@@ -1,0 +1,3 @@
+DROP DATABASE mealmasterdb;
+
+CREATE DATABASE IF NOT EXISTS MealMasterDb;
